@@ -5,4 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>link-git-jenckin-docker</name>
   <description>sample project</description>
+
+<build>
+	<finalName>link-git-jenkins-docker</finalName>
+</build>
 </project>
